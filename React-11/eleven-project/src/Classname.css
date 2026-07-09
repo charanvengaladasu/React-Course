@@ -1,0 +1,19 @@
+/*.active{
+    background-color: green;
+    color: white;
+}
+.inactive{
+    background-color:red;
+    color: white;
+}*/
+/*.error{
+    color: red;
+}
+.success{
+    color:green;
+}*/
+
+.clicked{
+    background-color: blueviolet;
+    color:white;
+}
